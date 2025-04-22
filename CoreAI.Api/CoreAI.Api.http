@@ -1,0 +1,6 @@
+@CoreAI.Api_HostAddress = http://localhost:5222
+
+GET {{CoreAI.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
