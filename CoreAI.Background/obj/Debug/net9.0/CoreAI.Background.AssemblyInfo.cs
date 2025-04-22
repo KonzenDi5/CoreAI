@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoreAI.Background")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de59759df6d9c5e59b3b1e7bfb68eb1556a1888f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1019c2d81899054fd2f0dff58699051ed593d2be")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoreAI.Background")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoreAI.Background")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
